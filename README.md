@@ -5,8 +5,7 @@
 To my mind, just about every Hedge Fund (that I am aware of, and that isn't all of them) has their incentive structure set up in a misaligned way.  Here’s (in my opinion) a modestly better model.  I think it can be applied fairly modularly.
 
 ### **Initiation Fee:** 
-###### (Optional) 
-Upfront charge, between 1-2% of wealth in.  Potentially more desirable alternative would be a static fee that’s 1-2% of what you want investors to invest.  
+_(Optional)_ - Upfront charge, between 1-2% of wealth in.  Potentially more desirable alternative would be a static fee that’s 1-2% of what you want investors to invest.  
 *   Non-repeating
 *   Used for operations in place of the 2% yearly that is normally charged
 *   Shows that an investor is willing to pay for what they get, partner not customer.
