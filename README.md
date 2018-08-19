@@ -4,7 +4,8 @@
 ## Setup
 To my mind, just about every Hedge Fund (that I am aware of, and that isn't all of them) has their incentive structure set up in a misaligned way.  Here’s (in my opinion) a modestly better model.  I think it can be applied fairly modularly.
 
-### **(Optional) Initiation Fee:** 
+### **Initiation Fee:** 
+###### (Optional) 
 Upfront charge, between 1-2% of wealth in.  Potentially more desirable alternative would be a static fee that’s 1-2% of what you want investors to invest.  
 *   Non-repeating
 *   Used for operations in place of the 2% yearly that is normally charged
@@ -28,12 +29,12 @@ Those fences are for avoiding risk and loss you say?  Fair, and true.  I wouldn�
 ## 🔑 Philosophy of this Model: 🔑
 (by the way, it’s just that—a model, not gospel)
 
-### 🔑 __Radical Trust.__
+### 🔑 - _Radical Trust._
 
-### 🔑 Complete Ownership.
+### 🔑 - Complete Ownership.
 By this design, the fund manager is basically investing as if it was their own money.  Most people are far more careful with their own money.  And the best way to really fail as a fund is to make tons of money until that one trade the sinks the whole company.
 
-### 🔑 Skin in the Game. 
+### 🔑 - Skin in the Game. 
 Incentives are far more aligned for a good return AND proper risk aversion.  2 and 20 models can be excellent for returns but a misalignment with the risk the client takes and how well the hedge fund manager will do.
 
 
