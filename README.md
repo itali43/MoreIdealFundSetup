@@ -1,4 +1,4 @@
-# More Ideal Fund Structure [🚧 In-Progress 👷🏻‍♂️]
+# More Ideal Fund Structure [🚧 In-Progress 👷‍♂️]
 ### 💸📈 My proposals for a properly incentive-aligned fund structure 📈💸
 ###### Note, Emoji's are used despite the professional topic because this is Github not FT, best to keep it light. <br/> Thank you for your patience-- 😉
 ## Setup
