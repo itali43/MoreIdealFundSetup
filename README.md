@@ -1,6 +1,6 @@
-# More Ideal Fund Structure 💸💵📈💰
-### My proposals for a properly incentive-aligned fund structure
-
+# More Ideal Fund Structure 
+### 💸📈 My proposals for a properly incentive-aligned fund structure 📈💸
+###### Note, Emoji's are used despite the professional topic because this is Github not FT, best to keep it light.  Thank you for your patience-- 😉
 ## Setup
 To my mind, just about every Hedge Fund (that I am aware of, and that isn't all of them) has their incentive structure set up in a misaligned way.  Here’s (in my opinion) a modestly better model.  I think it can be applied fairly modularly.
 
@@ -10,7 +10,8 @@ _(Optional)_ - Upfront charge, between 1-2% of wealth in.  Potentially more desi
 *   Used for operations in place of the 2% yearly that is normally charged
 *   Shows that an investor is willing to pay for what they get, partner not customer.
 
-### **Yearly Fees:**  __None.__  
+### **Yearly Management Fees:** 
+#### _None._  
 If you can’t eat off of your profits you either gave too large of bonuses last year, you spent your Initiation fee on Lambos instead of investing with your LPs in your promised first year profits, or you didn’t raise enough money.
 
 ### **Profit Take:**  
@@ -38,7 +39,7 @@ Incentives are far more aligned for a good return AND proper risk aversion.  2 a
 
 
 
-[comment]: # (work in progress, check out this cool comment I can do now!)
+[comment]: # (work in progress, check out this cool comment I can do now! 💸💵📈💰)
 
 
 
