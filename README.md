@@ -1,7 +1,6 @@
 # More Ideal Fund Structure 
 ### 💸📈 My proposals for a properly incentive-aligned fund structure 📈💸
-###### Note, Emoji's are used despite the professional topic because this is Github not FT, best to keep it light.  
-###### Thank you for your patience-- 😉
+###### Note, Emoji's are used despite the professional topic because this is Github not FT, best to keep it light. <br/> Thank you for your patience-- 😉
 ## Setup
 To my mind, just about every Hedge Fund (that I am aware of, and that isn't all of them) has their incentive structure set up in a misaligned way.  Here’s (in my opinion) a modestly better model.  I think it can be applied fairly modularly.
 
